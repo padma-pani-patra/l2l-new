@@ -51,7 +51,7 @@ class _NavBarState extends State<NavBar> {
                     : Image.asset(
                         'assets/icons/Group 527.png',
                         height: 27,
-                        width: 27,
+                        width: 29,
                       ),
               ),
               label: "My Lesson",
